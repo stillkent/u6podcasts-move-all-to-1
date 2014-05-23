@@ -1,0 +1,1 @@
+This unix bash script extracts all podcast episodes that have been transferred by gPodder or another podcast manager programme to a mounted Samsung YP-U6 audio player but have been placed into different individual folders based on the name of each podcast feed, and moves all of these episodes into a single folder instead.
